@@ -1,0 +1,1 @@
+# AverageMethod-JUnit2
